@@ -24,7 +24,7 @@ greenballImg = loadImage("Images/Bowling3.gif");
 blueballImg = loadImage("Images/Bowling4.gif");
 purpleballImg = loadImage("Images/Bowling5.gif");
 
-bgroundImg = loadImage("Images/BowlingAlley.png");
+bgroundImg = loadImage("Images/BowlingAlley.PNG");
 
 pinImg = loadImage("Images/BowlingPinTopView.png");
 }
